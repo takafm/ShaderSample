@@ -12,6 +12,7 @@ https://github.com/simonwhitaker/gibo
 /[Bb]uild/
 /[Bb]uilds/
 /[Ll]ogs/
+/[Rr]ecordings/
 
 # Never ignore Asset meta data
 !/[Aa]ssets/**/*.meta
